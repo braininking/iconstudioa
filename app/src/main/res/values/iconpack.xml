@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="icon_pack" translatable="false">
+        <item>ic_bm_whatsapp</item>
+        <item>ic_bm_instagram</item>
+        <item>ic_bm_facebook</item>
+        <item>ic_bm_tiktok</item>
+        <item>ic_bm_youtube</item>
+        <item>ic_bm_spotify</item>
+        <item>ic_bm_discord</item>
+        <item>ic_bm_telegram</item>
+        <item>ic_bm_pinterest</item>
+        <item>ic_bm_snapchat</item>
+        <item>ic_bm_chrome</item>
+        <item>ic_bm_gmail</item>
+        <item>ic_bm_maps</item>
+        <item>ic_bm_netflix</item>
+        <item>ic_bm_playstore</item>
+        <item>ic_bm_settings</item>
+        <item>ic_bm_phone</item>
+        <item>ic_bm_camera</item>
+        <item>ic_bm_gallery</item>
+        <item>ic_bm_files</item>
+        <item>ic_bm_x</item>
+        <item>ic_bm_bank</item>
+        <item>ic_bm_shopping</item>
+        <item>ic_bm_games</item>
+        <item>ic_bm_productivity</item>
+        <item>ic_bm_navigation</item>
+    </string-array>
+</resources>

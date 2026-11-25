@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Outer opaque black masks away overflowing icon edges; transparent interior keeps icon centered -->
+    <path
+        android:fillColor="#FF000000"
+        android:fillType="evenOdd"
+        android:pathData="M0,0 L48,0 L48,48 L0,48 Z M12,7 C9.24,7 7,9.24 7,12 L7,36 C7,38.76 9.24,41 12,41 L36,41 C38.76,41 41,38.76 41,36 L41,12 C41,9.24 38.76,7 36,7 Z" />
+</vector>

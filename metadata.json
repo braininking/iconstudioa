@@ -1,0 +1,6 @@
+{
+  "name": "AutoIcon Studio",
+  "description": "Editor inteligente de pacotes de ícones Black Minimalist com detecção automática de aplicativos e integração com Nova Launcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

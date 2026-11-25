@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path
+        name="nova_export"
+        path="nova_export/" />
+    <files-path
+        name="themed_icons"
+        path="themed_icons/" />
+</paths>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AutoIcon Studio</string>
+    <string name="nav_home">Início</string>
+    <string name="nav_editor">Editor</string>
+    <string name="nav_apps">Aplicativos</string>
+    <string name="nav_themes">Temas</string>
+    <string name="nav_automation">Automação</string>
+    <string name="nova_theme_title">AutoIcon Black Minimalist</string>
+    <string name="nova_theme_description">Pacote de ícones Black Minimalist com tematização automática para Nova Launcher.</string>
+</resources>

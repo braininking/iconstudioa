@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+
+    <category title="Redes Sociais" />
+    <item drawable="ic_bm_instagram" />
+    <item drawable="ic_bm_facebook" />
+    <item drawable="ic_bm_tiktok" />
+    <item drawable="ic_bm_pinterest" />
+    <item drawable="ic_bm_snapchat" />
+    <item drawable="ic_bm_x" />
+
+    <category title="Comunicação" />
+    <item drawable="ic_bm_whatsapp" />
+    <item drawable="ic_bm_telegram" />
+    <item drawable="ic_bm_discord" />
+    <item drawable="ic_bm_gmail" />
+    <item drawable="ic_bm_phone" />
+
+    <category title="Entretenimento" />
+    <item drawable="ic_bm_youtube" />
+    <item drawable="ic_bm_spotify" />
+    <item drawable="ic_bm_netflix" />
+
+    <category title="Navegação e Web" />
+    <item drawable="ic_bm_chrome" />
+    <item drawable="ic_bm_maps" />
+    <item drawable="ic_bm_navigation" />
+
+    <category title="Sistema e Utilidades" />
+    <item drawable="ic_bm_playstore" />
+    <item drawable="ic_bm_settings" />
+    <item drawable="ic_bm_camera" />
+    <item drawable="ic_bm_gallery" />
+    <item drawable="ic_bm_files" />
+    <item drawable="ic_bm_bank" />
+    <item drawable="ic_bm_shopping" />
+    <item drawable="ic_bm_games" />
+    <item drawable="ic_bm_productivity" />
+</resources>
